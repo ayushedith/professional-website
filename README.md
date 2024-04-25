@@ -16,18 +16,6 @@ It ia a React-based professional website designed to showcase your purpose or fo
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
-
-- [List the key features of your website.]
-
-## Demo
-
-[Include a link to a live demo of your website, if available.]
-
-## Technologies Used
-
-- **React**: [Brief explanation of why React was chosen and its role in the project]
-- **[Other technologies/libraries/frameworks used]**: [Explain any other technologies you utilized in your project and their respective roles.]
 
 ## Installation
 
