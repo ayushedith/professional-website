@@ -1,22 +1,46 @@
-# community-architects.net
+# Portfolio Website
 
-The ayushedith homepage
+## Description
 
-![Discord](https://img.shields.io/discord/747467177979805847?logo=discord&logoColor=ffffff&color=5a65ea)
-![Website](https://img.shields.io/website?up_message=running&up_color=71b280&down_message=down&down_color=c16969&url=https%3A%2F%2Fcommunity-architects.net)
+It ia a React-based professional website designed to showcase your purpose or focus. With a clean and modern interface.
 
-## Scripts
 
-### `npm install`
+## Table of Contents
 
-Installs required packages.
+- [Description](#description)
+- [Features](#features)
+- [Demo](#demo)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-### `npm run start`
+## Features
 
-Runs the app in the development mode with hot reloads.\
-Open [localhost:5173](http://localhost:5173) to view it in your browser.
+- [List the key features of your website.]
 
-### `npm run build`
+## Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Include a link to a live demo of your website, if available.]
+
+## Technologies Used
+
+- **React**: [Brief explanation of why React was chosen and its role in the project]
+- **[Other technologies/libraries/frameworks used]**: [Explain any other technologies you utilized in your project and their respective roles.]
+
+## Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/ayushedith/professional-website.git
+   ```
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+
