@@ -1,0 +1,46 @@
+{
+  "name": "ayushedith",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "notDef",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayushedith"
+  },
+  "author": "ayush*",
+  "scripts": {
+    "build": "vite build",
+    "start": "vite"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "react": "^18.1.0",
+    "react-animation-on-scroll": "^5.1.0",
+    "react-dom": "^18.1.0",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.4",
+    "vite": "^5.1.4",
+    "vite-plugin-svgr": "^3.2.0"
+  }
+}
