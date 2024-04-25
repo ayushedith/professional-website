@@ -5,17 +5,6 @@
 It ia a React-based professional website designed to showcase your purpose or focus. With a clean and modern interface.
 
 
-## Table of Contents
-
-- [Description](#description)
-- [Features](#features)
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 
 ## Installation
 
