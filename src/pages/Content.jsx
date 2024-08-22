@@ -47,7 +47,7 @@ function Content() {
           </div>
         </ContentBlock>
 
-        <ContentBlock animate>
+        {/* <ContentBlock animate>
           <div className='contentblock-text'>
             <div className='contentblock-tagrow'>
               <h2>Classy</h2>
@@ -65,7 +65,7 @@ function Content() {
               classyDark : classyLight}
             />
           </div>
-        </ContentBlock>
+        </ContentBlock> */}
 
         <ContentBlock animate>
           <div className='contentblock-text'>
